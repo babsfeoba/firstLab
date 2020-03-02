@@ -3,18 +3,23 @@ Version 4.9.9.1
 * Improved editor
 
 Version 4.9.9.0
-* Support for latest Mingw compiler system builds
-* Bug fixes
 
-Version 4.9.8.9
-* New code tooltip display
-* Improved Indent/Unindent and Remove Comment
-* Improved automatic indent
-* Added support for the "interface" keyword
-* WebUpdate should now report installation problems from PackMan
-* New splash screen and association icons
-* Improved installer
-* Many bug fixes
+-000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000
+0000000000000000000
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Version 4.9.8.7
 * Added support for GCC > 3.2
